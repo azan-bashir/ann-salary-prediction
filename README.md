@@ -88,7 +88,7 @@ app_screenshots.png
 
 ## 🚀 Streamlit Application
 
-**Live App:** _[Add your Streamlit URL here after deployment]_
+**Live App:** _[https://salary-regression-azan.streamlit.app/]_
 
 **App Screenshot:**
 
