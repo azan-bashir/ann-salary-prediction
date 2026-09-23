@@ -136,5 +136,9 @@ streamlit run salary_regression.py
 ## 👤 Author
 
 **Azan**
-BS Software Engineering
-University of Karachi
+BS Software Engineering, University of Karachi
+
+## 🙏 Acknowledgment
+
+This project was developed as part of my learning journey with **Analytix Camp**, 
+where I practiced applying deep learning concepts to real-world regression problems.
